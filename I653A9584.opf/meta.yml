@@ -1,0 +1,16 @@
+id: I653A9584
+default_language: sa
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-08 16:10:30.139401
+last_modified: 2023-02-08 16:10:30.139582
+source_metadata:
+  title: 'Aśvaghoṣa: Buddhacarita'
+  language: sa
+bases:
+  '9484':
+    base_file: 9484.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
